@@ -14,6 +14,7 @@
 		01B687541CD8882400FA2321 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01B687521CD8882400FA2321 /* LaunchScreen.storyboard */; };
 		01B6875F1CD8882400FA2321 /* sampleJSON001Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B6875E1CD8882400FA2321 /* sampleJSON001Tests.swift */; };
 		01B6876A1CD8882400FA2321 /* sampleJSON001UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B687691CD8882400FA2321 /* sampleJSON001UITests.swift */; };
+		01B687781CD8889200FA2321 /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 01B687771CD8889200FA2321 /* json.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		01B687651CD8882400FA2321 /* sampleJSON001UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleJSON001UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01B687691CD8882400FA2321 /* sampleJSON001UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleJSON001UITests.swift; sourceTree = "<group>"; };
 		01B6876B1CD8882400FA2321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01B687771CD8889200FA2321 /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				01B687501CD8882400FA2321 /* Assets.xcassets */,
 				01B687521CD8882400FA2321 /* LaunchScreen.storyboard */,
 				01B687551CD8882400FA2321 /* Info.plist */,
+				01B687771CD8889200FA2321 /* json.txt */,
 			);
 			path = sampleJSON001;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01B687781CD8889200FA2321 /* json.txt in Resources */,
 				01B687541CD8882400FA2321 /* LaunchScreen.storyboard in Resources */,
 				01B687511CD8882400FA2321 /* Assets.xcassets in Resources */,
 				01B6874F1CD8882400FA2321 /* Main.storyboard in Resources */,
